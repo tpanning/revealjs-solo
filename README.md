@@ -9,3 +9,5 @@ You can serve this presentation from any static web server, or as this project i
 Pages (see it [here](https://tpanning.github.com/revealjs-solo/)). To serve via GitHub Pages, fork
 this repository and make sure all commits are going to the gh-pages branch (this repository has
 gh-pages as the only branch, so if you fork it you shouldn't have to do anything).
+
+Licensed under the MIT License. See the LICENSE file for details.
